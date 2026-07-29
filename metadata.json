@@ -1,0 +1,6 @@
+{
+  "name": "GreenWatch Zamfara",
+  "description": "Localized environmental web platform and SDG 15 SIWES Program suite addressing deforestation, tree planting, and community reporting in Zamfara State.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
